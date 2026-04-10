@@ -128,5 +128,11 @@
   <ItemGroup>
     <None Include="Resources\descarga.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hourglass--v1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
